@@ -1,0 +1,111 @@
+body {
+	background: #CCCCCC;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.banner{
+	display: block;
+	background: #535353;
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#banner{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 85%;
+	height: auto;
+}
+
+.apresent{
+	display: block;
+	text-align: center;
+	background: #CCCCCC;
+	width: 80%;
+	padding-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.titulo-centre{
+	background: #535353;
+	text-align: center;
+	color: #ffffff;
+	height: 26px;
+	padding: 15px;
+	margin: 31px;
+	font-weight: bold;
+	font-size: 	20px;
+}
+
+.Informa p{
+	margin: 17px 0;
+}
+
+#missão{
+	font-size: 20px;
+}
+
+#importante {
+	color: #FF0000;
+}
+
+.beneficio{
+	display: block;
+	color: #CCCCCC;
+	background: #535353;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 22px;
+}
+
+.titulo{
+	width: 100%;
+}
+
+#benefi{
+	text-align: center;
+	padding: 24px;
+	margin: 0px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lista_bene{
+	vertical-align: top;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-right: 14px;
+	display: inline-block;
+	width: 45%;
+}
+
+#bem_cliente{
+	display: inline-block;
+	margin-top: 0px;
+	margin-right: 15%;
+	margin-left: 16%;
+	padding-bottom: 15px;
+	padding-right: 25px;
+	vertical-align: top;
+}
+
+.itens{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	list-style-type: square;
+}
+
+.imgList{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0 19px;
+	display: inline-block;
+	width: 45%;
+}
+
+.pexels{
+	padding-bottom: 15px;
+	width: 100%;
+}

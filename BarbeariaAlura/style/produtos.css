@@ -1,0 +1,101 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background: #bbbbbb;
+    padding: 20px 0;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.logo{
+    padding: 15px;
+    width: 80px;
+}
+
+nav{
+    position: absolute;
+    top: 61px;
+    right: 0px;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+nav a:hover{
+    color: #8f0101;
+}
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.produtos li{
+    display: inline-block;
+    border: solid 2px #000000;
+    border-radius: 15px;
+    text-align: center;
+    width: 30%;
+    vertical-align: topz;
+    margin: 0 1%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.produtos li:hover{
+    border-color: #8f0101;
+    border-width: 4px;
+}
+
+.produtos li:active{
+    border-color: #ff0000;
+}
+
+.produtos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-descript{
+    font-size: 18px;
+}
+
+.produto-preco{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+    background-image: url("../imagens/bg.jpg");
+    padding: 14px 0;
+}
+
+footer img{
+    width: 5%;
+}
+
+.copyright{
+    color: #ffffff;
+    font-size: 13px;
+
+}
